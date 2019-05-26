@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[hdxhxnflzldv08U2EAUbPA]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>50</id>
+  <title>Hatchet</title>
+  <isbn><![CDATA[0689840926]]></isbn>
+  <isbn13><![CDATA[9780689840920]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[AR]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2000</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Atheneum Books for Young Readers: Richard Jackson Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Brian is on his way to Canada to visit his estranged father when the pilot of his small prop plane suffers a heart attack. Brian is forced to crash-land the plane in a lake--and finds himself stranded in the remote Canadian wilderness with only his clothing and the hatchet his mother gave him as a present before his departure. <br /><br />Brian had been distraught over his parents' impending divorce and the secret he carries about his mother, but now he is truly desolate and alone. Exhausted, terrified, and hungry, Brian struggles to find food and make a shelter for himself. He has no special knowledge of the woods, and he must find a new kind of awareness and patience as he meets each day's challenges. Is the water safe to drink? Are the berries he finds poisonous? <br /><br />Slowly, Brian learns to turn adversity to his advantage--an invading porcupine unexpectedly shows him how to make fire, a devastating tornado shows him how to retrieve supplies from the submerged airplane. Most of all, Brian leaves behind the self-pity he has felt about his predicament as he summons the courage to stay alive. <br /><br />A story of survival and of transformation, this riveting book has sparked many a reader's interest in venturing into the wild.]]></description>
+  <work>
+  <id type="integer">1158125</id>
+  <books_count type="integer">103</books_count>
+  <best_book_id type="integer">50</best_book_id>
+  <reviews_count type="integer">361576</reviews_count>
+  <ratings_sum type="integer">992039</ratings_sum>
+  <ratings_count type="integer">267838</ratings_count>
+  <text_reviews_count type="integer">12729</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Hatchet</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:77556|4:85084|3:66940|2:24845|1:13413|total:267838</rating_dist>
+  <desc_user_id type="integer">5843106</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.70</average_rating>
+  <num_pages><![CDATA[208]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[254852]]></ratings_count>
+  <text_reviews_count><![CDATA[11346]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/50.Hatchet]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/50.Hatchet]]></link>
+  <authors>
+<author>
+<id>18</id>
+<name>Gary Paulsen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309159225p5/18.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309159225p2/18.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18.Gary_Paulsen]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>428211</ratings_count>
+<text_reviews_count>30428</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/50.Hatchet">Hatchet Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0689840926&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/50.Hatchet?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="42951"/>
+      <shelf name="currently-reading" count="4101"/>
+      <shelf name="young-adult" count="2454"/>
+      <shelf name="fiction" count="1968"/>
+      <shelf name="adventure" count="1054"/>
+      <shelf name="favorites" count="1029"/>
+      <shelf name="classics" count="911"/>
+      <shelf name="ya" count="836"/>
+      <shelf name="childrens" count="724"/>
+      <shelf name="survival" count="705"/>
+      <shelf name="realistic-fiction" count="592"/>
+      <shelf name="school" count="531"/>
+      <shelf name="childhood" count="531"/>
+      <shelf name="middle-grade" count="478"/>
+      <shelf name="children" count="406"/>
+      <shelf name="children-s" count="362"/>
+      <shelf name="books-i-own" count="346"/>
+      <shelf name="kids" count="339"/>
+      <shelf name="owned" count="323"/>
+      <shelf name="children-s-books" count="317"/>
+      <shelf name="read-for-school" count="268"/>
+      <shelf name="series" count="225"/>
+      <shelf name="classic" count="204"/>
+      <shelf name="newbery" count="203"/>
+      <shelf name="school-books" count="192"/>
+      <shelf name="great-american-read" count="188"/>
+      <shelf name="childhood-favorites" count="188"/>
+      <shelf name="middle-school" count="184"/>
+      <shelf name="kids-books" count="181"/>
+      <shelf name="for-school" count="170"/>
+      <shelf name="childrens-books" count="169"/>
+      <shelf name="juvenile" count="168"/>
+      <shelf name="childhood-books" count="161"/>
+      <shelf name="hatchet" count="154"/>
+      <shelf name="teen" count="153"/>
+      <shelf name="coming-of-age" count="151"/>
+      <shelf name="youth" count="142"/>
+      <shelf name="ya-fiction" count="140"/>
+      <shelf name="audiobook" count="137"/>
+      <shelf name="novels" count="134"/>
+      <shelf name="newbery-honor" count="122"/>
+      <shelf name="children-s-lit" count="121"/>
+      <shelf name="children-s-literature" count="120"/>
+      <shelf name="the-great-american-read" count="118"/>
+      <shelf name="juvenile-fiction" count="118"/>
+      <shelf name="childhood-reads" count="112"/>
+      <shelf name="action-adventure" count="110"/>
+      <shelf name="contemporary" count="108"/>
+      <shelf name="library" count="107"/>
+      <shelf name="audio" count="104"/>
+      <shelf name="owned-books" count="103"/>
+      <shelf name="read-in-school" count="100"/>
+      <shelf name="chapter-books" count="96"/>
+      <shelf name="young-adult-fiction" count="94"/>
+      <shelf name="canada" count="93"/>
+      <shelf name="ya-lit" count="88"/>
+      <shelf name="audiobooks" count="88"/>
+      <shelf name="read-as-a-kid" count="86"/>
+      <shelf name="gary-paulsen" count="84"/>
+      <shelf name="wilderness" count="83"/>
+      <shelf name="default" count="82"/>
+      <shelf name="childrens-lit" count="79"/>
+      <shelf name="nature" count="77"/>
+      <shelf name="classroom-library" count="77"/>
+      <shelf name="school-reads" count="73"/>
+      <shelf name="contemporary-realistic-fiction" count="72"/>
+      <shelf name="realistic" count="70"/>
+      <shelf name="re-read" count="69"/>
+      <shelf name="my-books" count="67"/>
+      <shelf name="general-fiction" count="67"/>
+      <shelf name="books" count="67"/>
+      <shelf name="pbs-great-american-read" count="65"/>
+      <shelf name="novel" count="58"/>
+      <shelf name="my-library" count="57"/>
+      <shelf name="ya-books" count="55"/>
+      <shelf name="6th-grade" count="54"/>
+      <shelf name="elementary" count="54"/>
+      <shelf name="elementary-school" count="54"/>
+      <shelf name="children-s-fiction" count="54"/>
+      <shelf name="5th-grade" count="54"/>
+      <shelf name="read-aloud" count="52"/>
+      <shelf name="newberry" count="52"/>
+      <shelf name="childrens-literature" count="52"/>
+      <shelf name="middle-grades" count="51"/>
+      <shelf name="kid-books" count="50"/>
+      <shelf name="my-childhood" count="50"/>
+      <shelf name="childrens-fiction" count="49"/>
+      <shelf name="action" count="49"/>
+      <shelf name="school-reading" count="48"/>
+      <shelf name="kid-lit" count="48"/>
+      <shelf name="to-buy" count="47"/>
+      <shelf name="award-winners" count="46"/>
+      <shelf name="drama" count="46"/>
+      <shelf name="reread" count="45"/>
+      <shelf name="contemporary-fiction" count="45"/>
+      <shelf name="audio-books" count="45"/>
+      <shelf name="book-club" count="44"/>
+      <shelf name="required-reading" count="44"/>
+      <shelf name="outdoors" count="44"/>
+      <shelf name="to-re-read" count="44"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>268218</id>
+<user_position>1</user_position>
+<series>
+<id>62223</id>
+<title>
+<![CDATA[
+    Brian's Saga
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>136251</id>
+<title><![CDATA[Harry Potter and the Deathly Hallows (Harry Potter, #7)]]></title>
+<title_without_series><![CDATA[Harry Potter and the Deathly Hallows]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1474171184s/136251.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1474171184m/136251.jpg]]></image_url>
+<num_pages>759</num_pages>
+<work>
+<id>2963218</id>
+</work>
+<isbn>0545010225</isbn>
+<isbn13>9780545010221</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33574273</id>
+<title><![CDATA[A Wrinkle in Time (Time Quintet, #1)]]></title>
+<title_without_series>A Wrinkle in Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1507963312s/33574273.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1507963312m/33574273.jpg]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>948387</id>
+</work>
+<isbn>1250153271</isbn>
+<isbn13>9781250153272</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>106</id>
+<name>Madeleine L&apos;Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106.Madeleine_L_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7624</id>
+<title>Lord of the Flies</title>
+<title_without_series>Lord of the Flies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7624.Lord_of_the_Flies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327869409s/7624.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327869409m/7624.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>2766512</id>
+</work>
+<isbn>0140283331</isbn>
+<isbn13>9780140283334</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39280444</id>
+<title>Speak</title>
+<title_without_series>Speak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39280444-speak]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1529044298s/39280444.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1529044298m/39280444.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>118521</id>
+</work>
+<isbn>0374311250</isbn>
+<isbn13>9780374311254</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>10003</id>
+<name>Laurie Halse Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10003.Laurie_Halse_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142976</id>
+<title>The Great Fire</title>
+<title_without_series>The Great Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142976.The_Great_Fire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360058127s/142976.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360058127m/142976.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>3301302</id>
+</work>
+<isbn>0439203074</isbn>
+<isbn13>9780439203074</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>20468</id>
+<name>Jim  Murphy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20468.Jim_Murphy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40095501</id>
+<title>The Sign of the Beaver</title>
+<title_without_series>The Sign of the Beaver</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40095501-the-sign-of-the-beaver]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1525963765s/40095501.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1525963765m/40095501.jpg]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>1282066</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>4</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7549</id>
+<name>Elizabeth George Speare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7549.Elizabeth_George_Speare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18553</id>
+<title>The Cay (The Cay, #1)</title>
+<title_without_series>The Cay</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18553.The_Cay]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>2351167</id>
+</work>
+<isbn>044022912X</isbn>
+<isbn13>9780440229124</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>11164</id>
+<name>Theodore Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11164.Theodore_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196791</id>
+<title>Homesick: My Own Story</title>
+<title_without_series>Homesick: My Own Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196791.Homesick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2229888</id>
+</work>
+<isbn>0142407615</isbn>
+<isbn13>9780142407615</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>231</id>
+<name>Jean Fritz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/231.Jean_Fritz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125407</id>
+<title>The Secret of the Indian</title>
+<title_without_series>The Secret of the Indian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125407.The_Secret_of_the_Indian]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>145</num_pages>
+<work>
+<id>2682340</id>
+</work>
+<isbn>0380710404</isbn>
+<isbn13>9780380710409</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>72237</id>
+<name>Lynne Reid Banks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72237.Lynne_Reid_Banks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8695048</id>
+<title><![CDATA[My Side of the Mountain/On the Far Side of the Mountain]]></title>
+<title_without_series><![CDATA[My Side of the Mountain/On the Far Side of the Mountain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8695048-my-side-of-the-mountain-on-the-far-side-of-the-mountain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327785721s/8695048.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327785721m/8695048.jpg]]></image_url>
+<num_pages>177</num_pages>
+<work>
+<id>13567637</id>
+</work>
+<isbn>0590372203</isbn>
+<isbn13>9780590372206</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23509</id>
+<name>Jean Craighead George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23509.Jean_Craighead_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12725</id>
+<title>Sing Down the Moon</title>
+<title_without_series>Sing Down the Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12725.Sing_Down_the_Moon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>121</num_pages>
+<work>
+<id>385669</id>
+</work>
+<isbn>0440979757</isbn>
+<isbn13>9780440979753</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4999</id>
+<name>Scott O&apos;Dell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4999.Scott_O_Dell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1149226</id>
+<title>Like Jake and Me</title>
+<title_without_series>Like Jake and Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1149226.Like_Jake_and_Me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320502702s/1149226.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320502702m/1149226.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1136694</id>
+</work>
+<isbn>0440421225</isbn>
+<isbn13>9780440421221</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>140582</id>
+<name>Mavis Jukes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140582.Mavis_Jukes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>186457</id>
+<title><![CDATA[The Fledgling (Hall Family Chronicles #4)]]></title>
+<title_without_series>The Fledgling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/186457.The_Fledgling]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327215220s/186457.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327215220m/186457.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>1074142</id>
+</work>
+<isbn>0590434519</isbn>
+<isbn13>9780590434515</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>83378</id>
+<name>Jane Langton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83378.Jane_Langton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>808470</id>
+<title>Far North</title>
+<title_without_series>Far North</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/808470.Far_North]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>794411</id>
+</work>
+<isbn>0060540966</isbn>
+<isbn13>9780060540968</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>44589</id>
+<name>Will Hobbs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44589.Will_Hobbs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>611853</id>
+<title>Belling the Tiger</title>
+<title_without_series>Belling the Tiger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/611853.Belling_the_Tiger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>598312</id>
+</work>
+<isbn>0762418893</isbn>
+<isbn13>9780762418893</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>206212</id>
+<name>Mary Stolz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/206212.Mary_Stolz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>353342</id>
+<title><![CDATA[The Cross of Lead (Crispin, #1)]]></title>
+<title_without_series>The Cross of Lead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/353342.The_Cross_of_Lead]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>1374812</id>
+</work>
+<isbn>0786816589</isbn>
+<isbn13>9780786816583</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10105</id>
+<name>Avi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10105.Avi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18564</id>
+<title>The Summit (Everest, #3)</title>
+<title_without_series>The Summit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18564.The_Summit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868405s/18564.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868405m/18564.jpg]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>1140732</id>
+</work>
+<isbn>0439411378</isbn>
+<isbn13>9780439411370</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>967511</id>
+<title>Rascal</title>
+<title_without_series>Rascal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/967511.Rascal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309211625s/967511.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309211625m/967511.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>952408</id>
+</work>
+<isbn>0140344454</isbn>
+<isbn13>9780140344455</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267838</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>43889</id>
+<name>Sterling North</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43889.Sterling_North]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

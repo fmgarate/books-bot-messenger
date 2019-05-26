@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[1234]]></key>
+    <method><![CDATA[search_index]]></method>
+  </Request>
+  <search>
+    <query><![CDATA[Ender's Game]]></query>
+    <results-start>1</results-start>
+    <results-end>20</results-end>
+    <total-results>686</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.19</query-time-seconds>
+    <results>
+      <work>
+        <id type="integer">2422333</id>
+        <books_count type="integer">243</books_count>
+        <ratings_count type="integer">1003064</ratings_count>
+        <text_reviews_count type="integer">41148</text_reviews_count>
+        <original_publication_year type="integer">1985</original_publication_year>
+        <original_publication_month type="integer" nil="true" />
+        <original_publication_day type="integer" nil="true" />
+        <average_rating>4.30</average_rating>
+        <best_book type="Book">
+        </best_book>
+      </work>
+      <work>
+        <id type="integer">2422333</id>
+        <books_count type="integer">243</books_count>
+        <ratings_count type="integer">1003064</ratings_count>
+        <text_reviews_count type="integer">41148</text_reviews_count>
+        <original_publication_year type="integer">1985</original_publication_year>
+        <original_publication_month type="integer" nil="true" />
+        <original_publication_day type="integer" nil="true" />
+        <average_rating>4.30</average_rating>
+        <best_book type="Book">
+        </best_book>
+      </work>
+    </results>
+  </search>
+</GoodreadsResponse>
